@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784420215708",
+    "firebase_url": "https://areeyametaya-apps.firebaseio.com",
+    "project_id": "areeyametaya-apps",
+    "storage_bucket": "areeyametaya-apps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784420215708:android:c6f62cf9f69807a9",
+        "android_client_info": {
+          "package_name": "com.areeyametaya.wholay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784420215708-562adbof6i6q8eur03te5dntduumfuu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJachkEcSWEBLK2d_hEz6__o81klm5-WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784420215708-562adbof6i6q8eur03te5dntduumfuu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
